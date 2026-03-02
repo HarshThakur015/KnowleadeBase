@@ -1,4 +1,4 @@
-```md
+
 # AI Personal Knowledge Base  
 **Production-Grade Portfolio Project**
 
@@ -52,7 +52,6 @@ Unlike a normal chatbot, this system:
 | **:contentReference[oaicite:9]{index=9}** | External data source | Auto-syncs workspace pages |
 | **:contentReference[oaicite:10]{index=10}** | Metadata store | Tracks document status and versions |
 
----
 
 ## Complete Workflow (Interview Explanation)
 
